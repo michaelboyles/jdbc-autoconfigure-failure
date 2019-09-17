@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Test (failing)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.springframework.boot.loader.PropertiesLauncher" />
+    <module name="core" />
+    <option name="VM_PARAMETERS" value="-Dloader.main=com.mycompany.App -Dloader.path=&quot;C:\Git\jdbc-module-test\jdbc\target\shaded\jdbc-1.0-SNAPSHOT.jar&quot;" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
