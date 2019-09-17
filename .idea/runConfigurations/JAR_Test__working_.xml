@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JAR Test (working)" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" />
+    <option name="VM_PARAMETERS" value="-Dloader.path=&quot;C:\Git\jdbc-module-test\jdbc\target\shaded\jdbc-1.0-SNAPSHOT.jar&quot;" />
+    <option name="WORKING_DIRECTORY" value="C:\Git\jdbc-module-test" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2" />
+  </configuration>
+</component>
